@@ -63,7 +63,7 @@ spring:
             proc.param_null_passing: true
     show-sql: true
 server:
-  port: 6007
+  port: 6005
 eureka:
   client:
     registerWithEureka: true
